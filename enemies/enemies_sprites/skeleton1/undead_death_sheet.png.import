@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/spr_StrikerGetHit_strip.png-e46485f6629412fa739da37a685bd989.stex"
+path="res://.import/undead_death_sheet.png-debeb201734cbfd5fae7079492551662.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://docs/player_sprites/spr_StrikerGetHit_strip.png"
-dest_files=[ "res://.import/spr_StrikerGetHit_strip.png-e46485f6629412fa739da37a685bd989.stex" ]
+source_file="res://enemies/enemies_sprites/skeleton1/undead_death_sheet.png"
+dest_files=[ "res://.import/undead_death_sheet.png-debeb201734cbfd5fae7079492551662.stex" ]
 
 [params]
 

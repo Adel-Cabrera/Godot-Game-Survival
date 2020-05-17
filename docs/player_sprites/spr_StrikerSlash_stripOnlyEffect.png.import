@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/spr_StrikerSlash_stripOnlyEffect.png-93ef798642282f65e72a80da7e36b292.stex"
+path="res://.import/spr_StrikerSlash_stripOnlyEffect.png-e6ed49140d0f520322d90bf1d9fcf733.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://player_sprites/spr_StrikerSlash_stripOnlyEffect.png"
-dest_files=[ "res://.import/spr_StrikerSlash_stripOnlyEffect.png-93ef798642282f65e72a80da7e36b292.stex" ]
+source_file="res://docs/player_sprites/spr_StrikerSlash_stripOnlyEffect.png"
+dest_files=[ "res://.import/spr_StrikerSlash_stripOnlyEffect.png-e6ed49140d0f520322d90bf1d9fcf733.stex" ]
 
 [params]
 

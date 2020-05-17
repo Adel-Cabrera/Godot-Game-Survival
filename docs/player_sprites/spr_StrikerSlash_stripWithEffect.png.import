@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/spr_StrikerSlash_stripWithEffect.png-4685c124853ad6611db7520ac700051e.stex"
+path="res://.import/spr_StrikerSlash_stripWithEffect.png-84790aba5faff8e1231744993ee5907a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://player_sprites/spr_StrikerSlash_stripWithEffect.png"
-dest_files=[ "res://.import/spr_StrikerSlash_stripWithEffect.png-4685c124853ad6611db7520ac700051e.stex" ]
+source_file="res://docs/player_sprites/spr_StrikerSlash_stripWithEffect.png"
+dest_files=[ "res://.import/spr_StrikerSlash_stripWithEffect.png-84790aba5faff8e1231744993ee5907a.stex" ]
 
 [params]
 
